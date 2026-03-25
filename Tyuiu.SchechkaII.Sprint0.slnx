@@ -1,8 +1,13 @@
 <Solution>
   <Folder Name="/Task0/">
-    <Project Path="Tyuiu.SchechkaII.Sprint0.Task0.V0/Tyuiu.SchechkaII.Sprint0.Task0.V0.csproj" />
+    <Project Path="Tyuiu.SchechkaII.Sprint0.Task0.V0/Tyuiu.SchechkaII.Sprint0.Task0.V0.csproj" Id="9ed837dd-0e62-4506-8182-f28a481e83ca" />
   </Folder>
   <Folder Name="/Task1/">
-    <Project Path="Tyuiu.SpirinIS.Sprint0.Task1.V0/Tyuiu.SpirinIS.Sprint0.Task1.V0.csproj" />
+    <Project Path="Tyuiu.SchechkaII.Sprint0.Task1.V0/Tyuiu.SchechkaII.Sprint0.Task1.V0.csproj" Id="8fadedbd-b729-410d-b4dc-71b18395066e" />
+  </Folder>
+  <Folder Name="/Task2/">
+    <Project Path="Tyuiu.SchechkaII.Sprint0.Task2.V0.Lib/Tyuiu.SchechkaII.Sprint0.Task2.V0.Lib.csproj" Id="7e4ec139-f57a-4677-ac32-c7b3c8930058" />
+    <Project Path="Tyuiu.SchechkaII.Sprint0.Task2.V0.Test/Tyuiu.SchechkaII.Sprint0.Task2.V0.Test.csproj" Id="fdfcf11d-cf39-46d6-8f4d-62c8fe9d68d9" />
+    <Project Path="Tyuiu.SchechkaII.Sprint0.Task2.V0/Tyuiu.SchechkaII.Sprint0.Task2.V0.csproj" Id="73beaf43-18b2-4e8c-905e-3532bdbf0867" />
   </Folder>
 </Solution>
