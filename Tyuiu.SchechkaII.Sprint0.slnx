@@ -15,4 +15,24 @@
     <Project Path="Tyuiu.SchechkaII.Sprint0.Task3.V0.Test/Tyuiu.SchechkaII.Sprint0.Task3.V0.Test.csproj" Id="ddfeeccb-c44e-4226-9085-f48b72efa0ed" />
     <Project Path="Tyuiu.SchechkaII.Sprint0.Task3.V0/Tyuiu.SchechkaII.Sprint0.Task3.V0.csproj" Id="b6d068df-fe40-4f62-8e9e-d08180f36d86" />
   </Folder>
+  <Folder Name="/Task4/">
+    <Project Path="Tyuiu.SchechkaII.Sprint0.Task4.V0.Lib/Tyuiu.SchechkaII.Sprint0.Task4.V0.Lib.csproj" Id="ac38aeb8-070b-42bc-8738-0cf64b0ced65" />
+    <Project Path="Tyuiu.SchechkaII.Sprint0.Task4.V0.Test/Tyuiu.SchechkaII.Sprint0.Task4.V0.Test.csproj" Id="2b5729e3-4787-4db4-947d-f3bfe4396a22" />
+    <Project Path="Tyuiu.SchechkaII.Sprint0.Task4.V0/Tyuiu.SchechkaII.Sprint0.Task4.V0.csproj" Id="117cd050-a95e-4bae-91dd-40ba2a386270" />
+  </Folder>
+  <Folder Name="/Task5/">
+    <Project Path="Tyuiu.SchechkaII.Sprint0.Task5.V0.Lib/Tyuiu.SchechkaII.Sprint0.Task5.V0.Lib.csproj" Id="61504a6f-c5ca-44bb-bafd-8ca0ad6f555d" />
+    <Project Path="Tyuiu.SchechkaII.Sprint0.Task5.V0.Test/Tyuiu.SchechkaII.Sprint0.Task5.V0.Test.csproj" Id="6a8434b9-6702-43a7-9401-ac9740822512" />
+    <Project Path="Tyuiu.SchechkaII.Sprint0.Task5.V0/Tyuiu.SchechkaII.Sprint0.Task5.V0.csproj" Id="08f44ff7-ba36-4618-a7d0-a9637214b2bd" />
+  </Folder>
+  <Folder Name="/Task6/">
+    <Project Path="Tyuiu.SchechkaII.Sprint0.Task6.V0.Lib/Tyuiu.SchechkaII.Sprint0.Task6.V0.Lib.csproj" Id="2b15a9fb-d482-49ed-871f-42465d0eadf0" />
+    <Project Path="Tyuiu.SchechkaII.Sprint0.Task6.V0.Test/Tyuiu.SchechkaII.Sprint0.Task6.V0.Test.csproj" Id="71c08bd5-f422-497f-a6da-8e08170a390f" />
+    <Project Path="Tyuiu.SchechkaII.Sprint0.Task6.V0/Tyuiu.SchechkaII.Sprint0.Task6.V0.csproj" Id="9d1e6f18-97ea-4594-9df1-b3c69396a5d8" />
+  </Folder>
+  <Folder Name="/Task7/">
+    <Project Path="Tyuiu.SchechkaII.Sprint0.Task7.V0.Lib/Tyuiu.SchechkaII.Sprint0.Task7.V0.Lib.csproj" Id="342e36d3-8998-4d4b-aac6-33d63c77e42c" />
+    <Project Path="Tyuiu.SchechkaII.Sprint0.Task7.V0.Test/Tyuiu.SchechkaII.Sprint0.Task7.V0.Test.csproj" Id="bd79a662-16dc-4b2f-91de-b0b24b021382" />
+    <Project Path="Tyuiu.SchechkaII.Sprint0.Task7.V0/Tyuiu.SchechkaII.Sprint0.Task7.V0.csproj" Id="3811756e-56c3-422e-a69c-de9735216ef3" />
+  </Folder>
 </Solution>
